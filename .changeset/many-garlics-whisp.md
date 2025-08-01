@@ -15,4 +15,4 @@
 "oi-frontend": major
 ---
 
-init major v2
+Changeset

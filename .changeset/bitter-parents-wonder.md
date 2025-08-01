@@ -15,4 +15,4 @@
 "oi-frontend": major
 ---
 
-npm install
+major
